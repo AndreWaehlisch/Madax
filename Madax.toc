@@ -1,0 +1,13 @@
+## Interface: 50400
+
+## Title: Madax
+
+## Version: 1
+
+## Author: |cffFF7D0AHoochie|r @EU-Dethecus
+
+## SavedVariablesPerCharacter: MadaxSavedVars
+
+## OptionalDeps: ArkInventory
+
+Madax.lua
